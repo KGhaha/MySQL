@@ -1,0 +1,15 @@
+Easy retrieval 
+Easy updating 
+Accessibility for multiple people at the same time 
+Data consistency 
+Space efficiency 
+Speed 
+Security 
+
+
+
+
+select the data i want from these database and tables where these criteria are met 
+group by this field having this property order by this field or list;
+
+UA_Dillards
